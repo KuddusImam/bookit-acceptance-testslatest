@@ -16,5 +16,5 @@ import org.junit.runner.RunWith;
         , dryRun = true
         , tags = "@wip"
 )
-public class CukesRunner {
+class CukesRunner {
 }
